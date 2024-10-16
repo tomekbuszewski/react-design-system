@@ -28,6 +28,10 @@ export default {
           light: "#FFA5A5",
           dark: "#4C0606",
         },
+        green: {
+          light: "#C1ECCC",
+          dark: "#0B7F2A",
+        },
         bg: "#fff",
       },
       boxShadow: {
